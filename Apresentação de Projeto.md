@@ -1,0 +1,1 @@
+Esta á uma pequena apresentação sobre mim de forma criativa, simulando uma videolocadora de filmes da década de 90 e anos 2000, utilizando apenas tags básicas para aprendizado em sala de aula, no curso de formação em Desenvolvimento Fullstack do Geração Tech.
